@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @narvdoeslua
+- 👀 I’m interested in gaming
+- 🌱 I’m currently learning lua
+- 😈 I'm a low resulution da hood tryhard 
